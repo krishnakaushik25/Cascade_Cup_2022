@@ -7,11 +7,11 @@
 
 In this repo, we have published our work from the 2nd and 3rd round. 
 
-**Round 2: Machine Learning Hackathon**
+## **Round 2: Machine Learning Hackathon**
 
 The hackathon was hosted on Kaggle platform. 
 
-**Background:**
+#### **Background:**
 
 At Shadowfax, part of the business includes delivering food orders from clients such as Swiggy and Zomato to customers. The typical order flow goes something like this:
 - A client creates the order in our system
@@ -23,11 +23,11 @@ At Shadowfax, part of the business includes delivering food orders from clients 
 
 The rider also has the option to get the order cancelled before delivery by calling the client’s call centre. We would like to predict this kind of cancellation before it happens so that we can try and reassign the order to another rider before it gets cancelled.
 
-**Problem Statement:**
+#### **Problem Statement:**
 
 Given the order and rider details as described below, create a model that can predict rider-driven cancellation in advance (i.e. before getting marked as cancelled or delivered).
 
-**Round 3: Data Analysis Report**
+## **Round 3: Data Analysis Report**
 
 Given the dataset, the task is to compile a detailed Data analysis report based on the dataset. Use graphs
 to make as many significant inferences and relationships as possible.
