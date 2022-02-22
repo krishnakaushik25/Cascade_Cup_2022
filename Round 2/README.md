@@ -2,8 +2,11 @@
 
 **Features that are already present in the dataset**
 order_id : unique id for each order
+
 order_time: time of the creation of order by the client
+
 order_date : date of the order
+
 allot_time: time of allocation of order to the rider
 accept_time: time of acceptance of the order by the rider (if available)
 pickup_time: time of pickup of the order (if available)
