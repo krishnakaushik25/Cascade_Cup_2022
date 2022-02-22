@@ -1,6 +1,7 @@
 ## **FEATURE ENGINEERING**
 
-**Features that are already present in the dataset**
+### **Features that are already present in the dataset**
+
 order_id : unique id for each order
 
 order_time: time of the creation of order by the client
@@ -41,7 +42,7 @@ reassignment_reason: a more detailed reason for the reassignment
 
 session_time: total time the rider had been online on order_date before order_time
 
-**New features added**
+### **New features added**
 
 Average_mile_distance : Average distance the rider has to cover to deliver the order
 
