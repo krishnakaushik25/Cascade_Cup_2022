@@ -1,6 +1,6 @@
 # Cascade_Cup_2022
 
-**IIT Guwahati's Consulting and Analytics Club** in association with **Shadowfax** conducted Cascade Cup'22 during the month of February 2022. We, team Brute_Force, were placed **1st** in the competition. So this is an effort to spread our work during the competition to the larger audience. The competition was conducted in 3 rounds, each being eliminatory.
+**IIT Guwahati's Consulting and Analytics Club** in association with **Shadowfax** conducted Cascade Cup'22 during the month of February 2022. Our **Team Brute_Force** secured **1st place** in the cascade cup competition among 1000+ teams. So this is an effort to spread our work during the competition to the larger audience. The competition was conducted in 3 rounds, each being eliminatory.
 - **Round 1**: Data Science Quiz
 - **Round 2**: Machine Learning Hackathon
 - **Round 3**: Data Analysis Report
@@ -31,12 +31,6 @@ Given the order and rider details as described below, create a model that can pr
 
 Given the dataset, the task is to compile a detailed Data analysis report based on the dataset. Use graphs
 to make as many significant inferences and relationships as possible.
-
-**Team Brute_Force**
-
-**Khushal Rathi**
-
-**Siddarth Nilol**
 
 **THANK YOU**
 
